@@ -39,6 +39,8 @@ Depois colocar no terminal os seguintes comandos:
 
      conda install --file requirements.txt
 
+### Current Members
+Luís Seco <br>
 
 ### Past Members
 João Ferreira <br>
